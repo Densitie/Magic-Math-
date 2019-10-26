@@ -1,12 +1,11 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * This is a math program using Math class 
+ * October 26 2019
  */
 
 /**
  *
- * @author ajayk
+ * @author arkir7294
  */
 public class MagicMath extends javax.swing.JFrame {
     int given1;
